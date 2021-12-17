@@ -2,7 +2,7 @@
 Molecular dynamics simulations of Omicron RBD
 
 
-DATA_S1.zip: The initial pdb structures of the simulated systems. 
+**DATA_S1.zip: The initial pdb structures of the simulated systems. **
 
 Name (.pdb)	System	Original PDB ID
 
@@ -44,7 +44,7 @@ rbd_ace2_omicron	RBDOmicron-ACE2	7N1X, 6VW1
 
 
 
-DATA_S2.zip: The parameter files in gromacs format of the simulated systems. 
+**DATA_S2.zip: The parameter files in gromacs format of the simulated systems. **
 
 System	PATH	Original PDB ID
 
